@@ -53,7 +53,7 @@ pip install -r requirements.txt
 Run the application:
 bash
 
-    python app.py
+    Streamlit run app.py
 
     Visit http://localhost:5000 in your browser to access the application.
 
